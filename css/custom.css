@@ -1,1 +1,15 @@
 /* your styles go here */
+
+p {
+  img {
+      margin: 0.5em;
+      display: inline-block;
+      
+      background: black;
+
+      border-radius: 2em;
+      border-radius: 0.7em;
+      border: 0.1em solid #e34234;
+      box-shadow: 0 0 0.1em 0.1em #e34234;
+  }
+}
