@@ -59,6 +59,19 @@ Too much synchronicity Some birds came up to me. I bought a cheese roll for them
     </item>
     
     <item>
+      <title>Surreal Numbers - Les nombres sur ordinaux</title>
+      <link>https://frottage.github.io/portfolio/surreal-numbers/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +1200</pubDate>
+      
+      <guid>https://frottage.github.io/portfolio/surreal-numbers/</guid>
+      <description>Surreal numbers are the most natural collection of numbers which includes both the real numbers and the infinite ordinal numbers of Georg Cantor.
+They were invented by John H. Conway in 1969.
+Every real number is surrounded by surreals, which are closer to it than any real number.
+Knuth (1974) describes the surreal numbers in a work of fiction.
+Transcript 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 The name actually came to me in the middle of the night; I have no idea.</description>
+    </item>
+    
+    <item>
       <title>Alpha Genesis</title>
       <link>https://frottage.github.io/portfolio/alpha-genesis/</link>
       <pubDate>Thu, 28 Jul 2022 00:00:00 +1200</pubDate>
